@@ -4,4 +4,4 @@ var n = 0;
 while (c.parentElement==null) {
 	n += 1;
 }
-alert("The level of the element is: n");
+alert("The level of the element is:"+n);
